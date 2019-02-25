@@ -101,6 +101,13 @@ def user_options():
                     table_list = read_from_file(table_state_file_string)
                     file_exists = 1
 
+
+
+
+
+
+
+
                 except FileNotFoundError:
                     print("Message: File does not exists. ")
 
