@@ -1,3 +1,0 @@
-In Python we have learned you can assign variables. 
-In Python we have also learned to create functions. 
-In Python we have created dictionaries and arrays. 
